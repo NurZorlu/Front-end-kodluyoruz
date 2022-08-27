@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tatli tarifi</title>
+</head>
+<body>
+    <h1>...Islak kek tarifi...</h1>
+    <p>Kek tarifleri arasından ıslak keki çok seviyor, ama şimdiye kadar ıslak kek tarifinin yapılışını bilmiyorsanız veya denemediyseniz size harika bir ıslak kek tarifimiz var!
+
+    Unun olabildiği, yumurtanın desteğe gelebildiği, kakaonun sevebildiği en güzel yemek tariflerinden biri kakaolu ıslak kek. İlk gördüğün andan itibaren çatalın koca bir parçasına batırmak istersin. Misafir gelse ilk onu çıkarmak, evde tek başına kalsan sürekli yemek istersin.
+</p>
+<p>Tarif: Nur Zorlu</p>
+<br>
+<p>Kac kisilik: 4 kisilik   Hazirlama suresi: 30 dakika   Pisirme suresi: 10 dakika</p>
+<section>
+    <article>
+<ul> Kakaolu Islak Kek Tarifi İçin Malzemeler
+    <li>3 adet yumurta</li>
+    <li>1 su bardaği toz şeker </li>
+    <li>1 su bardağı süt</li>
+    <li>1 su bardağı ayçiçek yağı</li>
+</ul>
+<ol> Kakaolu Islak Kek Tarifi Nasıl Yapılır?
+    <li>Islak kek tarifi için derin bir kasede yumurta ve şekeri aktarın.</li>
+    <li>Şeker eriyip, karışım krema kıvamına gelene kadar çırpın.</li>
+    <li>Ardından içerisine sütü, sıvı yağı ilave edin.</li>
+    <li>Vanilini de ekleyin. Koyup tekrar karıştırın.</li>
+    <li>Topak kalmaması için kakao, kabartma tozu ve unu süzgeçten geçirin.</li>
+</ol>
+    </article>
+</section>
+</body>
+</html>
