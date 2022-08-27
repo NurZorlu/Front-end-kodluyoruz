@@ -69,3 +69,89 @@ INDEX. HTML
 </footer>
 </body>
 </html>
+
+
+About.html
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkimizda | Kodluyoruz</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana sayfa</a>
+            </li>
+            <li>
+             <a href="About.html">Hakkimizda</a>
+            </li>
+        <li>
+            <a href="Contact.html">Iletisim</a>
+        </li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <article>
+        <h1>hakkimizda</h1>
+        <img src="https://picsum.photos/id/287/200/300" alt="yazi1">
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <hr>
+    </article>
+    </body>
+    </html>
+    
+    
+   Contact.html
+   
+   <!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iletisim | Kodluyoruz</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana sayfa</a>
+            </li>
+            <li>
+             <a href="About.html">Hakkimizda</a>
+            </li>
+        <li>
+            <a href="Contact.html">Iletisim</a>
+        </li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <article>
+        <h1>iletisim</h1>
+        <img src="https://picsum.photos/id/77/200/300" alt="yazi1">
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <hr>
+    </article>
+    <address>
+        Demetevler Mahallesi 40/13 <br>
+        Yenimahalle/Ankara
+    </address>
+    <a href="mailto:info@kodluyoruz.org">info@kodluyoruz.org</a> <br>
+    <a href="tel:02224567876">0222 456 78 76</a>
+</section>
+</body>
+</html>
+   
