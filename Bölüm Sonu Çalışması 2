@@ -1,0 +1,71 @@
+INDEX. HTML
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turkish pastries</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana sayfa</a>
+            </li>
+            <li>
+             <a href="About.html">Hakkimizda</a>
+            </li>
+        <li>
+            <a href="Contact.html">Iletisim</a>
+        </li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <article>
+        <h1>Birinci bolum</h1>
+        <img src="https://picsum.photos/id/237/200/300" alt="yazi1">
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <hr>
+    </article>
+    <article>
+        <h1>Ikinci Bolum</h1>
+        <img src="https://picsum.photos/id/27/200/300" alt="yazi2">
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Illum a distinctio dignissimos!</p>
+        <p>Aspernatur, harum et. Incidunt.</p>
+        <hr>
+    </article>
+    <article>
+        <h1>Ucuncu bolum</h1>
+        <img src="https://picsum.photos/id/437/200/300" alt="yazi3">
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Explicabo provident itaque laborum quidem.</p>
+        <p>Nam ducimus ipsa in animi!</p>
+        <p>Quod ducimus exercitationem eaque in!</p>
+        <p>Cupiditate alias cum aut corporis!</p>
+        <hr>
+    </article>
+</section>
+<footer>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana sayfa</a>
+            </li>
+            <li>
+             <a href="About.html">Hakkimizda</a>
+            </li>
+        <li>
+            <a href="Contact.html">Iletisim</a>
+        </li>
+        </ul>
+    </nav>
+</footer>
+</body>
+</html>
