@@ -1,0 +1,105 @@
+index.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google 1998</title>
+    <link rel="stylesheet" href="kodluyoruz.css">
+</head>
+<body>
+    <div class="img">
+        <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="Google">
+    </div>
+
+    <div class="bg-gray">
+        <p>Search the web using Google!</p>
+        <input type="text" value size="40"> <br>
+        <input type="Submit" value="Google Search">
+        <input type="Submit" value="I`m feeling lucky"> <br>
+    </div>
+    <div class=" bg-color float">
+        <p>Special Searches</p>
+        <a href="https://web.archive.org/web/19990224014327/http://www.google.com/stanford">Stanford Search</a> <br>
+        <a href="https://web.archive.org/web/19990221231654/http://www.google.com/linux">Linux Search</a>
+    </div>
+
+    <div class=" bg-color float">
+        <a href="https://web.archive.org/web/19990221212930if_/http://www.google.com/help.html">Help!</a>
+        <br>
+        <a href="https://web.archive.org/web/19990427105230if_/http://www.google.com/about.html">About Google</a> <br>
+        <a href="https://web.archive.org/web/19990221202430if_/http://www.google.com/company.html">Company Info</a> <br>
+        <a href="https://web.archive.org/web/19990224043535if_/http://www.google.com/stickers.html">Google Logos</a>
+
+    </div>
+
+    <div class=" bg-color3 float">
+        <p>Get Google Updates monthly:</p>
+        <input type="text" placeholder="your e-mail"> <br>
+        <input type="submit" name="Subscribe" id="submit"> 
+        <a href="https://web.archive.org/web/19990116224431/http://www.findmail.com/list/google-friends">Archive</a>
+    </div>
+    <br>
+    <div class="clear copy">
+        <p>Copyright ©1998 Google Inc. </p>
+    </div>
+</body>
+</html>
+
+
+
+
+css
+
+
+body{
+    padding: 50px 50px;
+}
+
+.img{
+    padding-left: 300px;
+}
+
+.bg-gray{
+    background-color: #EEEEEE;
+    padding: 0 300px;
+    width: 400px;
+}
+
+.bg-color{
+    background-color: rgb(112, 204, 194);
+    width: 251px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin: 5px 0 0 3px;
+   
+}
+
+.float{
+    float: left;
+    margin-top: 5px;
+   
+}
+
+.clear{
+    clear: both;
+}
+.bg-color3{
+    background-color: rgb(98, 179, 170);
+    margin: 5px 0 0 3px;
+    width: 251px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+p, a {
+    margin: 5px;
+}
+
+.copy{
+    margin-top: 10px;
+    padding: 10px 0 0 400px;
+}
